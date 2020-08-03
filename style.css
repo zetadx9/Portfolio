@@ -129,7 +129,7 @@
     height: 250px;
     position: center;
     transition: opacity 0.2s linear, transform 0.2s ease-in-out;
-    margin-right: 30px;
+    margin-right: 20px;
 }
 
 .aboutimg:hover {
